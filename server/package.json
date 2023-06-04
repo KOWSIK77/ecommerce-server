@@ -1,7 +1,7 @@
 {
   "name": "KMK",
   "version": "1.0.0",
-  "description": "Test Server for SHEMA",
+  "description": "Test Server ",
   "proxy": "http://localhost:3000/1 ",
   "main": "server.js",
   "scripts": {
